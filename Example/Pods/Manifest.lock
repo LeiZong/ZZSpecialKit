@@ -40,12 +40,12 @@ PODS:
   - ZZConfigsKit (0.1.0)
   - ZZMainViewKit (0.1.0)
   - ZZReformerKeysKit (0.1.0)
-  - ZZSpecialKit (0.1.0):
+  - ZZSpecialKit (0.1.2):
     - Masonry
     - ReactiveCocoa (~> 2.5)
     - YYWebImage
-    - ZZAPIsKit
-    - ZZCategoryKit
+    - ZZAPIsKit (~> 0.1.1)
+    - ZZCategoryKit (~> 0.1.1)
     - ZZConfigsKit
     - ZZMainViewKit
     - ZZReformerKeysKit
@@ -92,7 +92,7 @@ SPEC CHECKSUMS:
   ZZConfigsKit: f8889beaab8df87bd5f32e95dbecbee810c6c3cd
   ZZMainViewKit: 672a9b24091d9253a7aaaf6c8d7e36a04359694d
   ZZReformerKeysKit: 29b28888c152644829f60929982ffdd6a3467d73
-  ZZSpecialKit: 1458f19051c8d6b3a3522890bce08a6655679b60
+  ZZSpecialKit: 732af5c6a4d08955a54ce6fedb9b30fd2e3c7da2
   ZZToolsKit: f8373541c1d20734ff3ff2e1e4f3f82f1036b1d7
 
 PODFILE CHECKSUM: 15fc3f43426b509865de14fb607d65430731546d

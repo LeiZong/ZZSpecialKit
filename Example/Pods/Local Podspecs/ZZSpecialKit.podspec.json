@@ -1,6 +1,6 @@
 {
   "name": "ZZSpecialKit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A short description of ZZSpecialKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/LeiZong/ZZSpecialKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/LeiZong/ZZSpecialKit.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
@@ -30,10 +30,10 @@
       "~> 2.5"
     ],
     "ZZCategoryKit": [
-
+      "~> 0.1.1"
     ],
     "ZZAPIsKit": [
-
+      "~> 0.1.1"
     ],
     "ZZReformerKeysKit": [
 

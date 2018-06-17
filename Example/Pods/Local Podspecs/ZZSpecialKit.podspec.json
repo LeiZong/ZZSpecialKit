@@ -1,0 +1,51 @@
+{
+  "name": "ZZSpecialKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZZSpecialKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LeiZong/ZZSpecialKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LeiZong": "leasingzong@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/LeiZong/ZZSpecialKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZSpecialKit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "ZZCategoryKit": [
+
+    ],
+    "ZZAPIsKit": [
+
+    ],
+    "ZZReformerKeysKit": [
+
+    ],
+    "ZZToolsKit": [
+
+    ],
+    "ZZConfigsKit": [
+
+    ],
+    "ZZMainViewKit": [
+
+    ]
+  }
+}
